@@ -1,4 +1,4 @@
-## Hal yang dipelajari:
+## Materi hari-1
 * Tipe Data
 * String Formatting
 * Variabel
