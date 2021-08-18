@@ -13,3 +13,9 @@
 * Fungsi Lambda
 * Method
 * Menggunakan External Library
+
+
+## [Materi hari-3](https://spotless-food-d13.notion.site/Hari-3-Logic-Control-Flow-and-Loop-25a43ab74e144b87809e8a34feb36189)
+* Comparison Operation
+* Loop
+* Exception Handling
