@@ -19,3 +19,13 @@
 * Comparison Operation
 * Loop
 * Exception Handling
+
+
+## Materi Hari-4
+* List
+* Sifat List
+* Akses Data List
+* Manipulasi List
+* len, sorted, sum, .copy, .append
+* List Comprehension
+* Dictionary
