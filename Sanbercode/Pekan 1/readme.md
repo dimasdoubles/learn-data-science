@@ -29,3 +29,13 @@
 * len, sorted, sum, .copy, .append
 * List Comprehension
 * Dictionary
+
+
+## Materi Hari-5
+* Populasi dan Sampel 
+* Outliers(pencilan)
+* Jenis-jenis ukuran data
+* Menghitung statistika deskriptif menggunakan python
+* Menghitung ukuran pemusatan data
+* Menghitung ukuran sebaran data
+* Menghitung korelasi antara sepasang data
