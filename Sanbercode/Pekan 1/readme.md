@@ -6,7 +6,7 @@
 * Operator
 
 
-## [Materi hari-2](https://spotless-food-d13.notion.site/Hari-2-Functions-Method-and-Getting-Help-3f00a92d23014f7f9efbe8b26a4ee14d)
+## Materi hari-2
 * Fungsi help()
 * Mendefinisikan Fungsi
 * Default Arguments
@@ -15,7 +15,7 @@
 * Menggunakan External Library
 
 
-## [Materi hari-3](https://spotless-food-d13.notion.site/Hari-3-Logic-Control-Flow-and-Loop-25a43ab74e144b87809e8a34feb36189)
+## Materi hari-3
 * Comparison Operation
 * Loop
 * Exception Handling
