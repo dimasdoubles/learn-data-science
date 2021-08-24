@@ -10,3 +10,16 @@
 * Membaca data dari File
   pd.read_csv() / pd.read_excel()
 * head(), tail(), info(), describe()
+
+# Materi Hari-2
+* Series as Dictionary
+* series as Array
+* Indexing (memilih suatu data) menggunakan .loc dan .iloc objek series
+* Indexing DataFrame
+
+  dataframe[], dataframe.kolom, dataframe.loc[], dataframe.iloc[]
+* filtering DataFrame with boolean
+
+  contoh : laki2 = df.sex == 'male'
+           df[laki2]
+* Data Transformation (.apply())
