@@ -23,3 +23,7 @@
   contoh : laki2 = df.sex == 'male'
            df[laki2]
 * Data Transformation (.apply())
+
+# Materi Hari-3
+* Pivoting Data (baris menjadi kolom)
+* Melting (kolom jadi baris)
