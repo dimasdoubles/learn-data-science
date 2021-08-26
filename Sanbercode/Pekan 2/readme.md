@@ -27,3 +27,6 @@
 # Materi Hari-3
 * Pivoting Data (baris menjadi kolom)
 * Melting (kolom jadi baris)
+
+# Materi Hari-4
+* Grouping Data
