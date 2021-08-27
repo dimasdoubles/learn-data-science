@@ -30,3 +30,10 @@
 
 # Materi Hari-4
 * Grouping Data
+
+# Materi Hari-5
+* Merging DataFrame
+* Inner Join
+* Full Outer Join
+* Left Outer Join
+* Right Outer Join
